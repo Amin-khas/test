@@ -1,2 +1,2 @@
-# cor-test
+# test
 Coursera Test respository
